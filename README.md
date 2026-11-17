@@ -12,8 +12,8 @@ Bu proje, TensorFlow ve Keras kütüphaneleri kullanılarak geliştirilmiş bir 
 ## 📈 Proje Adımları
 1. **Veri Ön İşleme ve Keşifsel Veri Analizi (EDA):** Eksik verilerin kontrolü, korelasyon matrisi incelemesi.
 2. **Aykırı Değer (Outlier) Temizliği:** Fiyat dağılımını optimize etmek için en yüksek fiyatlı %1'lik dilimin çıkarılması.
-3. **Ölçeklendirme (Scaling):** `MinMaxScaler` ile verilerin normalize edilmesi (Veri sızıntısını önlemek için test/train ayrımı sonrası transformasyon).
-4. **Model Mimarisi:** Katmanlı Yapay Sinir Ağı (Dense layers) kurulumu ve model eğitimi (Early stopping / loss takibi).
+3. **Ölçeklendirme (Scaling):** `MinMaxScaler` ile verilerin normalize edilmesi
+4. **Model Mimarisi:** Katmanlı Yapay Sinir Ağı (Dense layers) kurulumu ve model eğitimi.
 5. **Model Değerlendirme:** MSE ve RMSE metrikleri ile hata payının analiz edilmesi.
 
 ## 🚀 Modeli Çalıştırma
